@@ -108,9 +108,12 @@ temple.html
 ## OUTPUT
 
 
-
-
-
+![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot (19).png>)
+![alt text](<Screenshot (20).png>)
+![alt text](<Screenshot (21).png>)
+![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (23).png>)
 
 
 ## RESULT
